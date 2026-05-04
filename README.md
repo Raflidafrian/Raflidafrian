@@ -1,4 +1,9 @@
+# Halo, Saya [Nama Kamu]! 👋
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rafli.Rafli" />
+
+<!-- Contoh statistik tambahan -->
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=Rafli&show_icons=true&theme=radical)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rafli!;" alt="Typing SVG" />
