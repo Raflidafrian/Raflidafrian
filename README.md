@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-    
+
 🌱 I’m currently learning **JavaScript, PHP, React, Node**
 
 💬 Ask me about **Node.js, React... or anything [here](https://github.com/issues)**
@@ -45,6 +45,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br/>
+  <!-- Pastikan path ini sesuai dengan username GitHub Anda -->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Rafli/Rafli/output/github-contribution-grid-snake.svg" />
 </div>
 
