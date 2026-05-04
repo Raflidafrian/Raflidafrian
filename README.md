@@ -46,7 +46,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br/>
   <!-- Pastikan path ini sesuai dengan username GitHub Anda -->
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Rafli/Rafli/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rafli/rafli/output/github-contribution-grid-snake.svg" />
 </div>
 
 <hr/>
@@ -54,8 +54,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rafli&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafli&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rafli&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafli&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
 </div>
 
 <br/>
