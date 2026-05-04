@@ -45,8 +45,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br/>
-  <!-- Pastikan path ini sesuai dengan username GitHub Anda -->
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rafli/rafli/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Rafli/Rafli/blob/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
 </div>
 
 <hr/>
