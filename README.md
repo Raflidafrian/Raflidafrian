@@ -50,7 +50,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br/>
-  <img src="https://raw.githubusercontent.com/Rafli/Rafli/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
+  <img class="shrinkToFit tranparent" src="htts://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="https://raw.githubusercontent.com/Platane/snk/output/github-contribution=grid-snake.gif" width="106" height="25"></img>
 </div>
 
 <hr/>
