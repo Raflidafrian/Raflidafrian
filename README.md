@@ -50,7 +50,9 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br/>
-  <img class="shrinkToFit tranparent" src="htts://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="https://raw.githubusercontent.com/Platane/snk/output/github-contribution=grid-snake.gif" width="106" height="25"></img>
+  
+  <img alt="ocean snake animation" src="https://raw.githubusercontent.com/Raflidafrian/Raflidafrian/output/ocean.gif" />
+  
 </div>
 
 <hr/>
