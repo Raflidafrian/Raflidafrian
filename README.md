@@ -50,13 +50,9 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br/>
-  
   <img alt="ocean snake animation" src="https://raw.githubusercontent.com/Raflidafrian/Raflidafrian/output/ocean.gif" />
-  
 </div>
-
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
   <br/>
   
   <picture>
@@ -64,9 +60,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raflidafrian/Raflidafrian/output/github-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Raflidafrian/Raflidafrian/output/github-snake.svg">
   </picture>
-  
 </div>
-
 
 <hr/>
 
