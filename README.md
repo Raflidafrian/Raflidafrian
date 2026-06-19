@@ -50,7 +50,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br/>
-  <img src="https://github.com/Rafli/Rafli/blob/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
+  <img src="https://raw.githubusercontent.com/Rafli/Rafli/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
 </div>
 
 <hr/>
