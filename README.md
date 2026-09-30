@@ -25,27 +25,11 @@
 ## 👨‍💻 About Me
 
 ```javascript
-const rafli = {
-    name: "Rafli Dafrian",
-    location: "Indonesia 🇮🇩",
-    education: "Informatics Engineering",
-    university: "Universitas Pamulang",
+Hi! I'm Rafli Dafrian, an Informatics Engineering student from Indonesia 🇮🇩 and a passionate Web Developer interested in building modern and useful web applications.
 
-    role: "Web Developer",
-    focus: [
-        "Full Stack Development",
-        "Web Application Development",
-        "Laravel Development",
-        "Database Management"
-    ],
+Currently, I'm focusing on Laravel, PHP, JavaScript, React, and Node.js, while exploring Web3 and modern full-stack development.
 
-    currentlyLearning: [
-        "JavaScript",
-        "React",
-        "Node.js",
-        "Web3"
-    ],
-
+One of my current projects is DentalCare 🦷, a web-based dental clinic management system designed to manage appointments, dental records, prescriptions, billing, and patient services.
     currentlyBuilding: "DentalCare 🦷",
 
     goal: "Become a Professional Full Stack Developer 🚀"
