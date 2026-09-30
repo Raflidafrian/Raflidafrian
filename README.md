@@ -22,7 +22,7 @@
 
 <!-- ======================= ABOUT ======================= -->
 
-## 👨‍💻 About Me
+## About Me
 
 ```javascript
 Hi! I'm Rafli Dafrian, an Informatics Engineering student from Indonesia
