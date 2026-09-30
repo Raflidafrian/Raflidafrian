@@ -1,75 +1,222 @@
-# Halo, Saya Rafli Dafrian! 👋
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rafli.Rafli" />
-
-<!-- Contoh statistik tambahan -->
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=Rafli&show_icons=true&theme=radical)
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rafli!;" alt="Typing SVG" />
-</h1>
-
-<h3 align="center">A passionate web2 & web3 developer from Indonesia</h3>
-
-<br/>
+# 👋 Hi, I'm Rafli Dafrian!
 
 <div align="center">
 
-🌱 I’m currently learning **JavaScript, PHP, React, Node**
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rafli+Dafrian!;Web+Developer;Laravel+Developer;Full+Stack+Developer" alt="Typing SVG" />
 
-💬 Ask me about **Node.js, React... or anything [here](https://github.com/issues)**
+<h3>A passionate Web Developer from Indonesia 🇮🇩</h3>
 
-⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+<img src="https://komarev.com/ghpvc/?username=Raflidafrian&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
 
-<br/>
+---
 
-<div align="center"> 
-  <a href="mailto:raflidafrian220@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/rafli-dafrian-65131b278/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
-<hr/>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" alt="Skills Layer 1" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,php,laravel,solidity,postgres,mysql,discord" alt="Skills Layer 2" />
-</div>
-
-<br/>
-<hr/>
+## 👨‍💻 About Me
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br/>
-  <img alt="ocean snake animation" src="https://raw.githubusercontent.com/Raflidafrian/Raflidafrian/output/ocean.gif" />
+
+🌱 Currently learning **JavaScript, PHP, React, Node.js, and Laravel**
+
+💻 Interested in **Web Development, Full Stack Development, and Web3**
+
+🎓 Informatics Engineering Student at **Universitas Pamulang**
+
+🦷 Currently developing **DentalCare — Dental Clinic Management System**
+
+🚀 Always learning, building, and improving my development skills
+
+⚡ Fun fact: **I enjoy turning ideas into functional web applications!**
+
 </div>
+
+---
+
+## 🌐 Connect With Me
+
 <div align="center">
-  <br/>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raflidafrian/Raflidafrian/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raflidafrian/Raflidafrian/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Raflidafrian/Raflidafrian/output/github-snake.svg">
-  </picture>
+
+<a href="mailto:raflidafrian220@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rafli-dafrian-65131b278/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/Raflidafrian" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
 </div>
 
-<hr/>
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br/>
+## 🛠️ Languages, Frameworks & Tools
+
+### 💻 Programming Languages
+
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rafli&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafli&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+
+<img src="https://skillicons.dev/icons?i=javascript,php,html,css,solidity" />
+
 </div>
 
-<br/>
-<hr/>
+### 🚀 Frameworks & Libraries
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,react,nodejs,express,tailwind,bootstrap,mui" />
+
+</div>
+
+### 🗄️ Database & Backend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
+
+</div>
+
+### 🔧 Development Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,discord" />
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+### 🦷 DentalCare — Dental Clinic Management System
+
+**DentalCare** is a web-based dental clinic management system designed to help manage clinic operations digitally.
+
+### ✨ Main Features
+
+- 👤 **Patient Management**
+- 👨‍⚕️ **Doctor Management**
+- 📅 **Appointment & Scheduling**
+- 🦷 **Dental Records**
+- 🧩 **Odontogram**
+- 💊 **Medicine & Prescription Management**
+- 💰 **Billing & Payment**
+- 🔐 **Role-Based Authentication**
+- 📊 **Admin Dashboard**
+- 👨‍⚕️ **Doctor Dashboard**
+- 👤 **Patient Dashboard**
+
+### 🧰 Tech Stack
+
+```text
+Laravel 12
+PHP
+MySQL
+Tailwind CSS
+JavaScript
+Blade
+Git & GitHub
+```
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Raflidafrian&show_icons=true&count_private=true&include_all_commits=true&theme=react&rank_icon=github&border_radius=10" alt="Rafli's GitHub Stats" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raflidafrian&layout=compact&langs_count=8&theme=react&border_radius=10&hide=html,css" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Raflidafrian&theme=react&hide_border=false&border_radius=10" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🐍 My Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Raflidafrian/Raflidafrian/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## 💡 What I'm Working On
+
+<div align="center">
+
+```text
+🔭 Building        → DentalCare Web Application
+🌱 Learning        → Laravel & Full Stack Development
+💻 Exploring       → React & Node.js
+🌐 Interested in   → Web3 & Blockchain
+📚 Improving       → Software Engineering Skills
+🚀 Goal            → Becoming a Professional Full Stack Developer
+```
+
+</div>
+
+---
+
+## 📈 My Development Journey
+
+<div align="center">
+
+**PHP & Laravel** ━━━━━━━━━━━━━━━━━━━━ 💻
+
+**JavaScript** ━━━━━━━━━━━━━━━━━━━━━ 🔥
+
+**React** ━━━━━━━━━━━━━━━━━━━━━━━ ⚛️
+
+**Node.js** ━━━━━━━━━━━━━━━━━━━ 🚀
+
+**MySQL & PostgreSQL** ━━━━━━━━━━━━━ 🗄️
+
+**Web3 & Solidity** ━━━━━━━━━━━━━━━ 🌐
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+- [x] Build and deploy a real-world web application
+- [x] Learn Laravel development
+- [x] Build a dental clinic management system
+- [ ] Improve React & Node.js skills
+- [ ] Build more open-source projects
+- [ ] Explore Web3 development
+- [ ] Contribute to open-source projects
+- [ ] Build a stronger GitHub portfolio
+- [ ] Become a professional Full Stack Developer
+
+---
+
+## ⚡ Tech Philosophy
+
+> **"Code is not just about making things work. It's about building solutions that are useful, maintainable, and continuously improving."**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Let's build something awesome together! 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+</div>
