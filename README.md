@@ -30,10 +30,6 @@ Hi! I'm Rafli Dafrian, an Informatics Engineering student from Indonesia 🇮�
 Currently, I'm focusing on Laravel, PHP, JavaScript, React, and Node.js, while exploring Web3 and modern full-stack development.
 
 One of my current projects is DentalCare 🦷, a web-based dental clinic management system designed to manage appointments, dental records, prescriptions, billing, and patient services.
-    currentlyBuilding: "DentalCare 🦷",
-
-    goal: "Become a Professional Full Stack Developer 🚀"
-};
 ```
 
 <div align="center">
